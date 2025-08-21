@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.secret
+
+# Foundry build artifacts
+out/
+cache/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+node_modules/

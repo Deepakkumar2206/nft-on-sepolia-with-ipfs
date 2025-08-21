@@ -1,0 +1,10 @@
+{
+  "name": "Deepak NFT #0",
+  "description": "My first NFT with on-chain tokenURI (Sepolia).",
+  "image": "ipfs://bafkreif6kchn5vrhalotfhh3mrv3s7ps3lozrblslhia2n4m2yk3usftwq",
+  "attributes": [
+    { "trait_type": "Series", "value": "Day9" },
+    { "trait_type": "Chain", "value": "Sepolia" }
+  ]
+}
+
